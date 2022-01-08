@@ -12,7 +12,6 @@
 💬 Ask me anything, I will be more than happy to help!
 
 
-
 ## 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
@@ -36,6 +35,6 @@
 <br/>
 
   [![Vidhi Angrish's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=vd152&theme=rogue)](https://git.io/vd152)
-
+<!--    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vd152&theme=prussian&hide_border=true)](https://git.io/streak-stats) -->
 <br/>
 <br/>
