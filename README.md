@@ -34,7 +34,16 @@
 
 <br/>
 
+## 🌐 &nbsp;Contributions and Stats
+
   [![Vidhi Angrish's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=vd152&theme=rogue)](https://git.io/vd152)
 <!--    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vd152&theme=prussian&hide_border=true)](https://git.io/streak-stats) -->
+
+<br/>
+
+[![](https://raw.githubusercontent.com/vd152/vd152/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vd152/vd152/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vd152/vd152/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vd152/vd152/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vd152/vd152/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 <br/>
 <br/>
