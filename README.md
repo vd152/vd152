@@ -3,9 +3,9 @@
 ## 👋 &nbsp;About Me
 
    
-👩‍🎓  Hey, I'm Vidhi, a 21 year old Computer Science Engineering Student, a passionate self-taught Full Stack Web Developer and a freelancer based in India.  
+👩‍🎓  Hey, I'm Vidhi, a 22 year old Computer Science Engineering Student, a passionate self-taught Full Stack Web Developer and a freelancer based in India. I am working as an Intern at BNY Mellon.
 
-👩‍💻  I’m currently learning Docker.  
+👩‍💻  I’m currently learning Golang and Docker.  
 
 ⚡ Fun fact: I have re-watched F.R.I.E.N.D.S 11 times and I still can't get enough. 
 
