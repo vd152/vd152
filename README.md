@@ -3,7 +3,7 @@
 ## 👋 &nbsp;About Me
 
    
-👩‍🎓  Hey, I'm Vidhi, a 22 year old Computer Science Engineering Student, a passionate self-taught Full Stack Web Developer and a freelancer based in India. I am working as an Intern at BNY Mellon.
+👩‍🎓  Hey, I'm Vidhi, a 22 year old Computer Science Engineering Student, a passionate self-taught Full Stack Web Developer and a freelancer based in India. I am working as a Software Developer at BNY Mellon.
 
 👩‍💻  I’m currently learning Golang and Docker.  
 
